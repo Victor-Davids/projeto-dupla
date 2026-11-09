@@ -1,0 +1,125 @@
+body
+{
+    background-color: #ffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.master {
+width: auto;
+height: auto;
+border: 1px solid #101010;
+margin: 0;
+padding: 0;
+}
+
+.master .cabeca
+{
+width: auto;
+height: 100px;
+border: 1px solid #101010;
+margin: 0;
+padding: 0;
+}
+
+.master .cabeca p
+{
+font-size: 55px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: left;
+margin: 10px;
+}
+
+.master .cabeca
+{
+font-size: 14px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: px;
+}
+
+.master .corpo
+{
+width: 70%;
+height: 1200px;
+border: 1px solid #101010;
+margin: 0;
+padding: 0;
+float: left;;
+background-color: #101010;
+}
+
+.master .corpo p
+{
+font-size: 45px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 5px;
+color: white;
+}
+
+.master .corpo p.subtitulo
+{
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 45px;
+color: white;
+}
+
+.master .corpo p.text
+{
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 45px;
+color: white;
+}
+
+.master .corpo .dimagem  img
+{
+display: block;
+width: 800px;
+height: 500px;
+text-align: center;
+margin: auto;
+border-radius: 15px;
+}
+
+.master .coluna
+{
+width: 25%;
+height: 1200px;
+float: left;
+}
+.master .coluna p
+{
+font-size: 45px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 10px 10px 10px 10 px;
+}
+
+.master .coluna ul li
+{
+list-style: none;
+text-align: center;
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 20px;
+margin-bottom: 10px;
+margin-right: 10px;
+margin-bottom: 20px;
+}
+
+.master .coluna ul li a
+{
+text-decoration: none;
+color: #101010;
+}
+
+.master .coluna ul li a:hover
+{
+text-decoration: none;
+background: #101010;
+color: rgb(241, 245, 244);
+border-radius: 10px;
+}
